@@ -29,5 +29,5 @@ You can click the Preview link to take a look at your changes.
 
 ## Visitor count
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=karanainule.karanainule" alt="visitor badge"/>
+  <img src="https://komarev.com/ghpvc/?username=karanainule&style=flat-square" alt="visitor badge"/>
 </p>
