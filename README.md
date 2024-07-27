@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning ... Data structures and algorithms in C++
 - 💞️ I’m looking to collaborate on ... on project on which i am working 
 - 📫 How to reach me ... karanainule@gmail.com
-- 😄 Pronouns: ...karan
 - ⚡ Fun fact: ... I'm currently studying BE in Information Technology 
 
 <!---
