@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... Data structures and algorithms in C++
 - 📫 How to reach me ... karanainule@gmail.com
 - ⚡ Fun fact: ... I'm currently studying B.E. in Information Technology
-- <!-- 💞️ I’m looking to collaborate on ... on project on which i am working --->
+<!-- -  💞️ I’m looking to collaborate on ... on project on which i am working --->
 
 <!---
 karanainule/karanainule is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
