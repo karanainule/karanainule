@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @karanainule
 - 👀 I’m interested in ... full stack web development 
 - 🌱 I’m currently learning ... Data structures and algorithms in C++
-- 💞️ I’m looking to collaborate on ... on project on which i am working 
+<!-- 💞️ I’m looking to collaborate on ... on project on which i am working --->
 - 📫 How to reach me ... karanainule@gmail.com
 - ⚡ Fun fact: ... I'm currently studying B.E. in Information Technology 
 
