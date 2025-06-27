@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @karanainule
+# 👋 Hi, I’m @karanainule
 - 👀 I’m interested in ... full stack web development 
 - 🌱 I’m currently learning ... Data structures and algorithms in C++
 - 📫 How to reach me ... karanainule@gmail.com
