@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... full stack web development 
 - 🌱 I’m currently learning ... Data structures and algorithms in C++
 - 📫 How to reach me ... karanainule@gmail.com
-- ⚡ Fun Fact: ... Coding by choice, not by chance..!
+- ⚡ Coding by choice, not by chance..!
 <!-- -  💞️ I’m looking to collaborate on ... on project on which i am working--->
 
 <!---
