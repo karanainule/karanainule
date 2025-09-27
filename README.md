@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Karan Ainule!
-- 👀 I’m interested in ... full stack web development 
+- 👀 I’m interested in ... Web Development & AI 
 - 🌱 I’m currently learning ... Data structures and algorithms in C++
 - 📫 How to reach me ... karanainule@gmail.com
 - ⚡ Coding by choice, not by chance..!
