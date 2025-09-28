@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Karan Ainule!
 🚀 A passionate Full-Stack Web Developer & Tech Enthusiast
-- 👀 I’m interested in **Web Development** & **AI**
+- 👀 I’m interested in **Web Development** , **AI** & **Open Source**
 - 🌱 I’m currently learning **Data Structures & Algorithms in C++**
 - 📫 Reach me at: [karanainule@gmail.com](mailto:karanainule@gmail.com)
 - ⚡ *Coding by choice, not by chance!*
@@ -28,6 +28,7 @@
 
 ### 🖥️ Frontend  
 Building clean and responsive user interfaces<br>
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
@@ -38,6 +39,7 @@ Building clean and responsive user interfaces<br>
 
 ### 🧠 Backend & Database  
 Creating robust APIs and managing data efficiently<br>
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59?style=flat-square&logo=express&logoColor=%2361DAFB)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -45,13 +47,13 @@ Creating robust APIs and managing data efficiently<br>
 
 ### 📝 Programming Languages  
 Strong problem-solving & development foundation<br>
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-
-
 ### 🧰 Tools & Platforms  
 Streamlining development & collaboration<br>
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
@@ -60,6 +62,8 @@ Streamlining development & collaboration<br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=karanainule&show_icons=true&theme=tokyonight" alt="Karan's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=karanainule&theme=tokyonight" alt="GitHub Streak" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanainule&layout=compact&theme=tokyonight" /> -->
+
 </p>
 
 
