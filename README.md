@@ -3,7 +3,7 @@
 - 👀 I’m interested in **Web Development** , **AI** & **Open Source**
 - 🌱 I’m currently learning **Data Structures & Algorithms in C++**
 - 📫 Reach me at: [karanainule@gmail.com](mailto:karanainule@gmail.com)
-- ⚡ *Coding by choice, not by chance!*
+- ⚡ *Coding by choice, not by chance...!*
 
 <!-- -  💞️ I’m looking to collaborate on ... on project on which i am working--->
 
