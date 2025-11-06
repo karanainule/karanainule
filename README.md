@@ -57,11 +57,20 @@ Streamlining development & collaboration<br>
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
+---
+
+## 🏅 Hacktoberfest Badges
+<p align="center">
+  <img src="https://holopin.me/karanainule" alt="Karan Ainule's Holopin Badges" width="800"/>
+</p>
+
+---
+
 --- 
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=karanainule&show_icons=true&theme=tokyonight" alt="Karan's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karanainule&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=karanainule&theme=tokyonight" alt="GitHub Streak" />
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanainule&layout=compact&theme=tokyonight" /> -->
 
 </p>
