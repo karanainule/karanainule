@@ -54,7 +54,8 @@ class Karan:
 - 🏆 National Hackathon Finalist — RIFT 2026, IIC 2026
 - 🤖 **AI Expert** certified by **NPCI & NVIDIA** (cleared all 3 levels)
 - 🌱 Currently deep-diving into **multi-LLM orchestration** & **system design**
-- 📦 Shipped real client projects — not just practice apps
+- 📦 Built and deployed real-world full-stack applications beyond tutorial projects
+- 💼 Open to Software Engineer Internships & Fresher SWE Roles
 
 <br clear="right"/>
 
@@ -90,23 +91,16 @@ class Karan:
 
 <div align="center">
 
-| 🚀 Project | 📝 Description | 🛠️ Stack |
-|:---:|:---|:---:|
-| 💊 **[PharmaGuard](https://pharma-guard-rho.vercel.app/)** | AI pharmacogenomics platform — processes VCF genomic files, evaluates drug risks & generates explainable clinical insights | `React` `FastAPI` `GPT-4o` `Gemini` |
-| 🛒 **Aditya Foods** | Production e-commerce platform shipped for a real external client with full order & inventory management | `MERN` `REST API` |
-| 🤖 **Vera** | WhatsApp-based AI merchant growth assistant with deterministic message engine & multi-turn conversation flow | `FastAPI` `Gemini` `Python` |
-| 🔐 **Authenticity Validator** | OCR-based academic credential fraud detection with SHA-256 hashing, JWT auth & React dashboard | `React` `FastAPI` `Tesseract` |
-
-</div>
+| 🚀 Project | ⚡ What It Does | 🛠️ Stack |
+|---|---|---|
+| 💊 [PharmaGuard](https://github.com/karanainule/PharmaGuard) | AI pharmacogenomics platform that analyzes VCF genomic datasets and generates explainable clinical drug-risk insights using multi-LLM workflows | `React` `FastAPI` `Python` `PostgreSQL` `Gemini` |
+| 🤖 [Vera](https://github.com/karanainule/vera-message-engine) | WhatsApp-based AI merchant assistant with multi-turn conversation workflows and automated customer engagement pipelines | `FastAPI` `Python` `Gemini` |
+| 🔐 [Authenticity Validator](https://github.com/karanainule/Authenticity-Validator-for-Academia) | OCR-powered academic credential verification system with SHA-256 tamper detection and JWT authentication | `React` `FastAPI` `Tesseract` |
+| 🛒 [Aditya Foods](https://github.com/karanainule/ADITYA_FOODS) | Production-grade e-commerce platform developed for a real external client with order & inventory management | `MERN` `REST API` |</div>
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30px"/> Achievements & Recognition
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="60px"/>
-</div>
-
+## ![achievements](https://img.shields.io/badge/🏆-Achievements_%26_Recognition-6366F1?style=flat&labelColor=1a1a2e)
 ```
 🥈  RIFT 2026 Hackathon — Finalist
     ↳ Built PharmaGuard, an AI pharmacogenomics risk predictor — selected among hundreds of teams
@@ -123,7 +117,7 @@ class Karan:
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216121986-1a4c9b2e-0eb2-4b56-9979-6a4c99d3e627.png" width="30px"/> Certifications
+#### 📜 Certifications
 
 <div align="center">
 
@@ -143,6 +137,7 @@ class Karan:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=karanainule&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
+
 
 <!-- Activity graph — separate reliable service -->
 <p align="center">
