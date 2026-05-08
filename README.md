@@ -10,7 +10,7 @@
 
 <br/>
 
-<!-- Social Badges — shields.io, 100% reliable -->
+<!-- Social Badges -->
 <div align="center">
   <a href="mailto:karanainule@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -20,17 +20,17 @@
   </a>&nbsp;
   <a href="https://github.com/karanainule">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  </a>&nbsp;
   <a href="https://drive.google.com/file/d/1eKCSHCByTARZFM2FUNbuhPYVkqK098oO/view?usp=drive_link">
-  <img src="https://img.shields.io/badge/Resume-6366F1?style=for-the-badge&logo=readthedocs&logoColor=white"/>
-</a>
+    <img src="https://img.shields.io/badge/Resume-6366F1?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+  </a>
 </div>
 
 <br/>
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30px" /> About Me
+## 👨‍💻 About Me
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="270px"/>
 
@@ -61,7 +61,7 @@ class Karan:
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px"/> Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -80,14 +80,14 @@ class Karan:
 <img src="https://img.shields.io/badge/Multi--LLM_Orchestration-8B5CF6?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 
-### 🛠️ Tools & Platforms
+### 🔧 Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,figma,vscode&theme=dark" />
 
 </div>
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30px"/> Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
@@ -96,11 +96,14 @@ class Karan:
 | 💊 [PharmaGuard](https://github.com/karanainule/PharmaGuard) | AI pharmacogenomics platform that analyzes VCF genomic datasets and generates explainable clinical drug-risk insights using multi-LLM workflows | `React` `FastAPI` `Python` `PostgreSQL` `Gemini` |
 | 🤖 [Vera](https://github.com/karanainule/vera-message-engine) | WhatsApp-based AI merchant assistant with multi-turn conversation workflows and automated customer engagement pipelines | `FastAPI` `Python` `Gemini` |
 | 🔐 [Authenticity Validator](https://github.com/karanainule/Authenticity-Validator-for-Academia) | OCR-powered academic credential verification system with SHA-256 tamper detection and JWT authentication | `React` `FastAPI` `Tesseract` |
-| 🛒 [Aditya Foods](https://github.com/karanainule/ADITYA_FOODS) | Production-grade e-commerce platform developed for a real external client with order & inventory management | `MERN` `REST API` |</div>
+| 🛒 [Aditya Foods](https://github.com/karanainule/ADITYA_FOODS) | Production-grade e-commerce platform developed for a real external client with order & inventory management | `MERN` `REST API` |
+
+</div>
 
 ---
 
-## ![achievements](https://img.shields.io/badge/🏆-Achievements_%26_Recognition-6366F1?style=flat&labelColor=1a1a2e)
+## 🏆 Achievements & Recognition
+
 ```
 🥈  RIFT 2026 Hackathon — Finalist
     ↳ Built PharmaGuard, an AI pharmacogenomics risk predictor — selected among hundreds of teams
@@ -117,7 +120,7 @@ class Karan:
 
 ---
 
-#### 📜 Certifications
+## 📜 Certifications
 
 <div align="center">
 
@@ -133,13 +136,10 @@ class Karan:
 
 ## 📊 GitHub Stats
 
-<!-- Streak stats — herokuapp instance, most stable free option -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=karanainule&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-
-<!-- Activity graph — separate reliable service -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=karanainule&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
 </p>
@@ -154,7 +154,7 @@ class Karan:
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" width="30px"/> Let's Connect!
+## 🌐 Let's Connect!
 
 <div align="center">
 
