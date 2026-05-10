@@ -13,16 +13,17 @@
 <!-- Social Badges -->
 <div align="center">
   <a href="mailto:karanainule@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
   </a>&nbsp;
   <a href="https://linkedin.com/in/karan-ainule">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>&nbsp;
   <a href="https://github.com/karanainule">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>&nbsp;
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <br/><br/>
   <a href="https://drive.google.com/file/d/1eKCSHCByTARZFM2FUNbuhPYVkqK098oO/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/Resume-6366F1?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readthedocs&logoColor=6366F1"/>
   </a>
 </div>
 
@@ -32,7 +33,9 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="270px"/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="400px"/>
+</div>
 
 ```python
 class Karan:
@@ -56,8 +59,6 @@ class Karan:
 - 🌱 Currently deep-diving into **multi-LLM orchestration** & **system design**
 - 📦 Built and deployed real-world full-stack applications beyond tutorial projects
 - 💼 Open to Software Engineer Internships & Fresher SWE Roles
-
-<br clear="right"/>
 
 ---
 
